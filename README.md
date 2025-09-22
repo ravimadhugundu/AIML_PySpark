@@ -11,10 +11,10 @@ Labs, exercises and projects
 -  AIML coursework and simulations
 -  Python logic puzzles and algorithmic challenges
 
-## 🛠 Skills & Tools
-- **Languages:** Python, SQL  
+## Skills & Tools
+- **Languages:** Python, SQL, Spark, Scala  
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Tools:** Jupyter Notebook, Git, VS Code
+- **Tools:** Jupyter Notebook, Git, VS Code, Dababricks
 
 ##  Featured Projects
 - [Water Bucket Puzzle Solver](https://github.com/yourusername/water-bucket-solver) – Simulates classic logic puzzles using Python
