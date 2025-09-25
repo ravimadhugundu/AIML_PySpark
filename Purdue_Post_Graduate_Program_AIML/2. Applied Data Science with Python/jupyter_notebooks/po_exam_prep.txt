@@ -1,0 +1,103 @@
+Why do we use PI Objectives? - 85
+
+----------------------------------------------------------
+
+13 - ART Kanban
+21 - WIP limits
+7 - What problems will the solution solve
+8 - Design
+9 - They explore, integrate, deploy,and release new value during each iteration.
+
+https://mysafe.scaledagile.com/home
+URL: https://elearning.izenbridge.com/
+User : vineelaganapa@gmail.com
+password: Srivasa@123
+
+-----------------------
+28,32,118
+89 ART planning board
+The Team Kanban promotes collaboration and facilitates flow
+122 - PO team sync
+143 PO Sync
+POs communicate adjustments to their teams after the sync.
+45 - Solution Vision IMP
+What is a Solution Vision? 45
+
+53 - Epic, feature, story, enabler
+64 -kanban
+144 - PO Sync helps
+PI Planning can reveal opportunities to release value sooner 90
+13. The ART Kanban facilitates flow through the Continuous Delivery Pipeline
+37. What is one acitivity an Agile Team performs during Iteration Review? - Demonstrate a working, tested team increment.
+
+When are adjustments made to the inital sequencing of stories? - At Iteration boundaries
+
+What is the primary focus of an Operational Value Stream? - Delivering end-user value.
+Where are workflows,activities and required automation represented? - In the Continuous Delivery Pipeline.
+What is commonly used to explore new ideas or determine the feasibility of Epics? - Spikes
+What is one tool that identifies specific practices for potential improvement? - Competency assessments
+Which of the following is an Agile Manifesto principle? - Working software is the primary measure of progress.
+Who should attend the PO Sync? - The POs, PM and other stakeholders as needed.
+What is one purpose of Iteration Goals? - To align team members to a common purpose.
+During PI Planning, which activity happens after dependencies are resolved and risks are addressed? - Confidence vote.
+Where are systems, people who do the work, and the flow of information and materials represented? - Within a Value Stream.
+ART planing board shows dependencies during PI planning.
+SAfe Team kanban promote Collaboration.
+PO comminicate to their teams Adjustments after PO Sync.
+Outcome of the Iteration Retrospective - Improvement items in the Team backlog.
+Who often participates as the ART's Business Owners to approve the team's PI Objectives? - Product Management 
+Which concept provides a set of tools that supports teh creation of /features? - Flow accelaration
+What element improves when Features and Stories are related to personas? - Design
+
+Where can Product Management find information about when a specific Epic will be completed? - The System Architecture designs 
+
+What does Continuous Exploration help Product Management understand? - Customer needs and market problems
+What can assist in facilitating Team Flow? - WIP limits
+What is one responsibility area of a Product Owner? - Getting and applying feedback, Prioritizing the Team Backlog......
+
+When are adjustments made to the initial sequencing of stories? - 
+
+Which of the following questions does a Vision answer? - What Problems will the solution solve............
+
+What is commonly used to explore new ideas or determine the feasibility of Epics? - 
+
+What enables flow through the Continuous Delivery Pipeline? - The ART Kanban
+
+Which increment is reviews at the System demo? - Portfolio increment
+
+How do Agile Teams carry out Continuous Delivery Pipeline activities during the PI? They explore, integrate,deploy and release new value during each Iteration.
+
+
+
+What can be revealed during PI Planning - Opportunity to release value sooner.
+Which statement is true about the SAFe backlog model - Features are in the ART Backlog.
+What is one responsibility of the Product Owner - Prioritizing the Team Backlog.
+What is one influence on the vision? - Strategic Themes
+Who communicates the vision during PI planning? - Product Management
+What is the anti-pattern related to System demo? - Team demos are accepted in place of a System demo to avoid redundancy.
+Which SAFe Core Value is demonstrated when explaining why the top 10 features were chosen for PI Planning? - Transparency.
+What is one benefit of PI Planning? - It aligns ART demand to capacity
+Which role provides processes and tools to integrate and evaluate work products early and often? - System Team
+What work-item can be split from Epics? - Features
+What is one responsibility of Product Management? - Managing the ART Backlog
+How can Product Management leverage market rhythms? - Adjust the delivery of Features to meet market needs.
+Which statement is true about Weighted Shortest Job First? - It considers the cost of delay and teh job size.
+During which event does the team proveiew and elaborate on upcoming stories? - Backlog Refinement.
+What is the recommended structure for writing User Stories? - AS a....,I want....So that...
+Which event involves teams working on new ideas often added to the ART Kanban? - Hackathon
+When is a Story considered complete? - It satisfies the Definition of Done.
+
+what is one benefit using PI Objectives? - To obtain immediate feedback from Business Owners
+
+Benefits of PI planning 43
+Why do we use PI Objectives? 85
+147 - Safe core values - Alignment, transparency, Respect for people, Relentless improvement
+146
+Communicate the top 10 Features 79
+Collaboration with other ART roles34
+
+103
+Hackathon 150
+ART planning board
+When is a Story complete? 106
+153,154,155,156 - learn
