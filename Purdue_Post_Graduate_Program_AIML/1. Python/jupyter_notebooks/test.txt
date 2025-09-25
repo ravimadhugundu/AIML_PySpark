@@ -1,0 +1,2 @@
+This will overwrite the existing content of my file.
+This is added information.
